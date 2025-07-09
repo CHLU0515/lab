@@ -10,7 +10,7 @@ components_dict = {
         "other HTF": {"HTF": 0},
         "<5# GL": {"GL": 0.25},
         "6-20# GL": {"GL": 0.35},
-        ">21 GL": {"GL": 0.7},
+        ">21# GL": {"GL": 0.7},
     },
     "Frest Oocyte IVF": {"HTF": 1.0, "GL": 0.35},
     "Frest Oocyte ICSI+IVF": {
